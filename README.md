@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 
 Hi 👋, I'm Melike Gundogdu
-A junior full stack developer from Turkey
 
-- 🔭 I’m currently working on a very very cool project-->"coming soon"
+
+
+A junior full stack developer from Turkey!
 
 - 🌱 I’m currently learning **React, Python**
 
