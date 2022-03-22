@@ -1,13 +1,7 @@
-### Hi there 👋
 
-<!--
-**melormelike/melormelike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-Hi 👋, I'm Melike Gundogdu
-
-A junior full stack developer from Turkey!
+Hi 👋, 
+I'm a junior full stack developer from Turkey!
 
 - 🌱 I’m currently learning **React, Python**
 
